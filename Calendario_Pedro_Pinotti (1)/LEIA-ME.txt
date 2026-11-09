@@ -1,0 +1,10 @@
+CALENDÁRIO PEDRO PINOTTI
+
+1. Abra seu repositório no GitHub pelo navegador.
+2. Toque em Add file > Upload files (no celular, ative "Site para computador" se necessário).
+3. Envie os QUATRO arquivos DE DENTRO deste ZIP (não envie o ZIP fechado): index.html, manifest.webmanifest, icon.svg e sw.js.
+4. Em Settings > Pages, selecione Deploy from a branch, branch main e pasta /(root). Salve.
+5. Abra o endereço que o GitHub Pages fornecer e adicione à tela inicial do celular.
+
+Início do calendário: 09/11/2026. Continua em 2027 e nos anos seguintes.
+Check-ins e notas ficam salvos no navegador do aparelho. Use a aba Backup para exportar seu histórico.
